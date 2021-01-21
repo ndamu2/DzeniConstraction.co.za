@@ -1,0 +1,140 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: "Monstserrat-Bold";
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-weight: 100;
+}
+
+
+#title{
+  background-color: #012136;
+  color: #8f8f8f;
+}
+
+.containter-fluid{
+  padding:0.5%  0.5%;
+}
+
+/* Navbar */
+.navbar{
+  padding-bottom: 4.5;
+}
+.navbar-brand{
+  color:#8f8f8f;
+  font-family: "Monstserrat-bold";
+  font-size: 22px;
+  font-weight: bold;
+  line-height:1.5;
+
+}
+.nav-item{
+  padding: 0 18px;
+
+}
+.nav-link{
+  color: #8f8f8f;
+  font-size:1.2rem;
+  font-family: "Monstserrat-bold";
+
+
+}
+  /* Row Section */
+  .features-hedding{
+    padding-top: 3.5%;
+    font-size: 2.5rem;
+  }
+
+  .icon{
+    color: #f4d481;
+  }
+  #fearures{
+    position: relative;
+  }
+
+  .features-title{
+    font-size: 1.5;
+  }
+
+  .features-box{
+    padding: 4.5%;
+    text-align: center;
+  }
+
+  /* Why Us  */
+  .first-container{
+    background-color: #8f8f8f;
+  }
+  .whyus-title{
+    padding-top:3%;
+    padding-bottom: 0;
+  }
+  .whyus-p{
+    padding: 3.5%  15%;
+    padding-top: 0;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+/* Services */
+.service-hedding{
+  color: black;
+  font-family: "Monstserrat-bold";
+  font-size: 33px;
+  font-weight: bold;
+  line-height:1.5;
+}
+#service{
+  text-align: center;
+  padding: 0% 35%;
+  height: 10%;
+
+}
+.service-image{
+  width: 45%;
+  border-radius:100%;
+  margin: 20%;
+  height: 100%;
+  text-align: center;
+
+}
+.service-text{
+  line-height: 1.5;
+  text-align: center;
+  padding: 0  ;
+}
+.service-white-hedding{
+  padding: 2.% 7.5%;
+  font-family: "Monstserrat-bold";
+  font-size: 27px;
+  font-weight: bold;
+  line-height:1.5;
+
+}
+.service-white-section{
+  background-color: #F8F8FF;
+}
+.line{
+  border-radius: 5px dashed;
+}
+
+/* contact section */
+.contact-hedding{
+  color:white;
+  font-family: "Monstserrat-bold";
+  font-size: 33px;
+  font-weight: bold;
+  line-height:1.5;
+  padding-bottom: 3%;
+
+}
+.Contact-section{
+  padding: 3.5% 15%;
+  background-color: #012136;
+}
+
+.contact-text{
+  color:#8f8f8f;
+
+}
